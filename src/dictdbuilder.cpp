@@ -19,7 +19,7 @@
  ***************************************************************************/
 
 #include "dictdbuilder.h"
-
+#include <cstring>
 #include <iostream>
 
 DictdBuilder::DictdBuilder( std::string filename )

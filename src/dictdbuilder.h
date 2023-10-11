@@ -22,6 +22,8 @@
 
 #include "dictbuilder.h"
 
+#include <sys/types.h>
+
 #include <map>
 #include <fstream>
 

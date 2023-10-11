@@ -23,6 +23,8 @@
 
 #include "dictbuilder.h"
 
+#include <sys/types.h>
+
 #include <fstream>
 #include <map>
 

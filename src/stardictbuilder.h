@@ -25,6 +25,8 @@
 #include <map>
 #include <fstream>
 
+#include <cstdlib>
+
 class StarDictBuilder : public DictBuilder
 {
 

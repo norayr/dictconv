@@ -21,6 +21,11 @@
 
 #include <zlib.h>
 
+#include <cstring>
+
+#include <cstdlib>
+
+
 #define CHUNK 0xffffL
 
 StarDict::StarDict( const char *filename )
